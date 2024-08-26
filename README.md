@@ -26,7 +26,7 @@ This repository contains a Java Spring Boot microservice designed to meet the re
 ### 1. POST /api/nodes
 
 - **Description:** Create a new node.
-- **Endpoint:** `/nodes`
+- **Endpoint:** `/api/nodes`
 - **Method:** POST
 - **Request Body:**
 
