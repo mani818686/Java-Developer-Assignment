@@ -9,8 +9,8 @@ This repository contains a Java Spring Boot microservice designed to meet the re
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/spring-boot-user-microservice.git
-   cd spring-boot-user-microservice
+   git clone https://github.com/mani818686/Java-Developer-Assignment.git
+   cd Java-Developer-Assignment
 2. **Build the Project**
 
    ```bash
